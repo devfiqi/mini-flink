@@ -1,0 +1,17 @@
+# Java / Maven
+target/
+*.class
+*.jar
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Kubernetes secrets
+*.secret.yaml
